@@ -1,2 +1,2 @@
-# 30-Days-Challenge
-A website for tracking your habits within a 30 days timeframe.
+# CS50x 2019 Final Project
+I made this in December 29 2019, which is almost new year, so when new year is around, people going to make a new year resolution right, create **good habits** and leave **bad habits** to make our life better, so I made a habit tracker called **30 Days Challenge** to track our habits within a timeframe of 30 days, and **check the box** everytime you've completed those habits, *and trust me, it's really satisfying*.
